@@ -1,4 +1,4 @@
-public class JavaApplication2 {
+public class Parimparsencillo {
 
     public static void main(String[] args) {
    
