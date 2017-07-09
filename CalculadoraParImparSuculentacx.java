@@ -1,4 +1,4 @@
-package javaapplication2;
+package CalculadoraParImparSuculentacx;
 import java.util.Scanner;
 
 public class JavaApplication2 {
