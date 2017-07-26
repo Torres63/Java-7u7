@@ -1,3 +1,8 @@
+Puertos funcionales para conexiones VPN ;U
+
 HTTP  1909
 SOCK  1908
+
+HTTP 5911
+SOCK 5910
 
